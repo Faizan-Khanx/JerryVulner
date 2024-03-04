@@ -55,7 +55,7 @@ banner = f"""
 {blue}   
 {red} 
 {blue}A Jerry Vulnerability Scanner Tool For Termux
-{red}  Made by jerry Telegram:-  @sedxjerryhacking
+{red}  Made by jerry Telegram:-  @sedxjerryhack
 {yellow}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  """
 
